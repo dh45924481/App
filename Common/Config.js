@@ -1,0 +1,1 @@
+// 用来处理命令行参数、config.json等等，整合到Config对象里
